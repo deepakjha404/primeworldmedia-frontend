@@ -1,0 +1,12 @@
+# robots.txt for Prime World Media
+
+User-agent: *
+Allow: /
+
+# Block private/admin/api areas only
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://primeworldmedia.com/sitemap.xml
