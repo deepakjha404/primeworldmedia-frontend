@@ -263,12 +263,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Development Team** - Prime World Media Tech
 - **Design Team** - Prime World Media Creative
-- **Product Owner** - [Name]
+- **Product Owner** - Deepak Jha
 
 ## 📞 Support
 
 For support and questions:
-- **Email:** support@primeworldmedia.com
+- **Email:** kumardeepu7541@gmail.com
 - **Documentation:** [https://docs.primeworldmedia.com](https://docs.primeworldmedia.com)
 - **Issues:** [GitHub Issues](https://github.com/your-org/primeworldmedia-frontend/issues)
 
@@ -283,4 +283,4 @@ For support and questions:
 
 ---
 
-**Built with ❤️ by the Prime World Media Team**
+
